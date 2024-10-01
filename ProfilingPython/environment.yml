@@ -1,0 +1,12 @@
+name: profiling
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.4
+  - numpy=1.22.3
+  - scikit-learn=1.0.2
+  - matplotlib=3.5.2
+  - line_profiler=3.4.0
+  - memory_profiler=0.60.0
+  - snakeviz=2.1.1
+  - pip=23.2.1
